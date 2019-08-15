@@ -12,3 +12,4 @@ If off, can be toggled on above 60km/h, but not off again, unless under 60km/h.
 W - accelerate
 S - decelerate
 T - TC toggle
+Q-  quit
