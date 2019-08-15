@@ -22,3 +22,4 @@ $(OBJ_DIR)/%.o: $(SRC_DIR)/%.c
 .PHONY: clean
 clean:
 	@$(CLEAN)
+
